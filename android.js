@@ -1,7 +1,7 @@
-// Maked by 0x77 (Misha Marinenko)
-// Licensed under GPL-3.0
+// UrbanSync Copyright (C) 2018 Misha Marinenko <misha@marinenko.rf.gd>
+// Licensed under GPL-3.0 see LICENSE for more details...
 // UrbanSync.core for android. 
-// Based on ipfs: https://github.com/ipfs/ipfs (https://ipfs.io )
+// Based on ipfs: https://github.com/ipfs/ipfs (https://ipfs.io)
 
 (function(){
 	//Init varibles...
