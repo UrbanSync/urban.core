@@ -2,7 +2,6 @@
 // Licensed under GPL-3.0 see LICENSE for more details...
 // UrbanSync.core for android. 
 // Based on ipfs: https://github.com/ipfs/ipfs (https://ipfs.io)
-
 (function(){
 	//Init varibles...
 	window.urban={core: null, start: null};
